@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/sinhait/static/css/main.1b297e08.chunk.css",
+    "main.js": "/sinhait/static/js/main.85140399.chunk.js",
+    "main.js.map": "/sinhait/static/js/main.85140399.chunk.js.map",
+    "runtime-main.js": "/sinhait/static/js/runtime-main.5ade6613.js",
+    "runtime-main.js.map": "/sinhait/static/js/runtime-main.5ade6613.js.map",
+    "static/js/2.4ece656c.chunk.js": "/sinhait/static/js/2.4ece656c.chunk.js",
+    "static/js/2.4ece656c.chunk.js.map": "/sinhait/static/js/2.4ece656c.chunk.js.map",
+    "static/js/3.f442b96e.chunk.js": "/sinhait/static/js/3.f442b96e.chunk.js",
+    "static/js/3.f442b96e.chunk.js.map": "/sinhait/static/js/3.f442b96e.chunk.js.map",
+    "index.html": "/sinhait/index.html",
+    "static/css/main.1b297e08.chunk.css.map": "/sinhait/static/css/main.1b297e08.chunk.css.map",
+    "static/js/2.4ece656c.chunk.js.LICENSE.txt": "/sinhait/static/js/2.4ece656c.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/sinhait/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5ade6613.js",
+    "static/js/2.4ece656c.chunk.js",
+    "static/css/main.1b297e08.chunk.css",
+    "static/js/main.85140399.chunk.js"
+  ]
+}
